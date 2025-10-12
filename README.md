@@ -33,8 +33,12 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 
 ---
 
+<h2 align="center">🐍 My Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
+  <img src="https://github.com/Jos-Low/Jos-Low/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
 </p>
 
 <p align="center">
