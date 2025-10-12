@@ -1,28 +1,41 @@
-name: 🐍 Generate Neon Snake Animation
+name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:
+# Runs automatically every day at midnight
+schedule:
+  - cron: "0 0 * * *"
+
+# Allows you to manually trigger the workflow from the Actions tab
+workflow_dispatch:
+
+# Runs whenever you push to your main profile README
+push:
+  branches:
+    - main
+    - master
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+build:
+  runs-on: ubuntu-latest
+  steps:
+    # Check out your repository's code
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-    steps:
-      - name: 🎨 Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Jos-Low  # <-- your GitHub username
-          outputs: dist/snake.svg
-          # Custom glowing-neon color palette
-          color_snake: "#39FF14"  # Neon green
-          color_dots: "#0D1117,#161B22,#30363D,#58A6FF,#39FF14"
+    # Generate the snake animation from your GitHub contributions
+    - name: Generate Snake SVG
+      uses: Platane/snk@v3
+      with:
+        github_user_name: Jos-Low   # <-- change this to your GitHub username
+        outputs: |
+          dist/snake.svg
+          dist/snake-dark.svg?palette=github-dark
 
-      - name: 🚀 Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # Push the generated files (snake.svg) to the output branch
+    - name: Push Snake Animation to output branch
+      uses: crazy-max/ghaction-github-pages@v4
+      with:
+        target_branch: output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
