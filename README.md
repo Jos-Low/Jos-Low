@@ -15,6 +15,10 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=github_dark)
+
+
 ---
 
 ### 💬 Let's Connect!
@@ -24,8 +28,6 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 </p>
 
 ---
-
-</p>
 
 <p align="center">
   <sub> Always open to new ideas, collaborations, and side projects!</sub>
