@@ -15,11 +15,13 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jos-Low&show_icons=true&theme=tokyonight">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jos-Low&theme=tokyonight">
-</p>
+### 🌟 Featured Work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-task-manager&theme=tokyonight)](https://github.com/Jos-Low/Sandbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/CPP-Syllabus-to-CSV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/CPP-Terminal-Typing-Game
+)
+
 
 ---
 
