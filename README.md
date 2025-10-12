@@ -15,14 +15,6 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### 🌟 Featured Work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jos-Low&repo=ai-task-manager&theme=tokyonight)](https://github.com/Jos-Low/Sandbox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jos-Low&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/Syllabus-to-CSV))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jos-Low&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/CPP-Terminal-Typing-Game)
-)
-
-
 ---
 
 ### 💬 Let's Connect!
@@ -33,17 +25,8 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 
 ---
 
-<h2 align="center">🐍 My Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/Jos-Low/Jos-Low/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
 </p>
 
 <p align="center">
   <sub> Always open to new ideas, collaborations, and side projects!</sub>
 </p>
-
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
