@@ -17,9 +17,9 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 
 ### 🌟 Featured Work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-task-manager&theme=tokyonight)](https://github.com/Jos-Low/Sandbox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/CPP-Syllabus-to-CSV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/CPP-Terminal-Typing-Game
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jos-Low&repo=ai-task-manager&theme=tokyonight)](https://github.com/Jos-Low/Sandbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jos-Low&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/Syllabus-to-CSV))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jos-Low&repo=thought-recorder&theme=tokyonight)](https://github.com/Jos-Low/CPP-Terminal-Typing-Game)
 )
 
 
@@ -38,5 +38,8 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 </p>
 
 <p align="center">
-  <sub>⭐ Always open to new ideas, collaborations, and side projects!</sub>
+  <sub> Always open to new ideas, collaborations, and side projects!</sub>
 </p>
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
