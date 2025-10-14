@@ -2,6 +2,9 @@
 Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4D4D&center=true&vCenter=true&width=550&lines=Computer+Science+Student+@+MSU;C%2B%2B+%7C+Python+%7C+JavaScript+Developer;Always+learning+something+new!">
+</p>
 
 ### 💻 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
