@@ -1,5 +1,5 @@
 <h1 align="center">
-Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>!
+Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>
 </h1>
 
 <p align="center">
