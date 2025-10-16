@@ -17,10 +17,9 @@ Hey, I'm <a href="https://github.com/Jos-Low">Joshua Lowden</a>
 </p>
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=github_dark)
-
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=github_dark">
+</p>
 
 ### 💬 Let's Connect!
 <p align="center">
