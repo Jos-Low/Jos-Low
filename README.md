@@ -6,7 +6,7 @@ Hey, I'm <a href="https://github.com/Jos-Low" style="color:#FF4D4D;">Joshua Lowd
   <img src="https://readme-typing-svg.herokuapp.com?color=FF4D4D&center=true&vCenter=true&width=550&lines=Computer+Science+Student+@+MSU;C%2B%2B+%7C+Python+%7C+JavaScript+Developer;Always+learning+something+new!">
 </p>
 
-### Languages & Tools
+<h3 align="center"> Languages & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
