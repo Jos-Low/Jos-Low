@@ -17,9 +17,9 @@ Hey, I'm <a href="https://github.com/Jos-Low" style="color:#FF4D4D;">Joshua Lowd
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages">
 </p>
 
 <h3 align="center">Let's Connect!</h3>
