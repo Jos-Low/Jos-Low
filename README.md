@@ -18,7 +18,9 @@ Hey, I'm <a href="https://github.com/Jos-Low" style="color:#FF4D4D;">Joshua Lowd
 </p>
 
 <h3 align="center">Most Used Languages</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=tokyonight" />
+</p>
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
