@@ -1,5 +1,5 @@
 <h1 align="center">
-Hey, I'm <a href="https://github.com/Jos-Low" style="color:#FF4D4D;">Joshua Lowden</a>
+Hey, I'm <a href="https://github.com/Jos-Low" style="color:#FF4D4D;">Josh Lowden</a>
 </h1>
 
 <p align="center">
@@ -19,7 +19,8 @@ Hey, I'm <a href="https://github.com/Jos-Low" style="color:#FF4D4D;">Joshua Lowd
 
 <h3 align="center">Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=tokyonight" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Low&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <h3 align="center">Let's Connect!</h3>
